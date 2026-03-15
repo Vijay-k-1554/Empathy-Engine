@@ -96,8 +96,8 @@ empathy-engine
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/empathy-engine.git
-cd empathy-engine
+git clone https://github.com/Vijay-k-1554/Empathy-Engine.git
+cd Empathy-Engine
 ```
 
 Create a virtual environment:
@@ -135,7 +135,7 @@ streamlit run streamlit_app.py
 Then open your browser and navigate to:
 
 ```
-http://localhost:8501
+https://empathy-engine-sahkq85k2pudcgu4ibzpnk.streamlit.app/
 ```
 
 You can enter any sentence and hear the emotionally expressive speech output.
